@@ -1,3 +1,5 @@
+https://takagotch.github.io/page126/
+
 # Edition
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
